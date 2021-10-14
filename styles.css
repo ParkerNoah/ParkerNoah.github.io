@@ -11,6 +11,8 @@ body {
 .assignment img {
     width:200px;
     padding:10px;
+    margin:10px;
+    background-color: aqua;
 }
 
 h1 {
